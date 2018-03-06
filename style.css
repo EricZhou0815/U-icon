@@ -1,0 +1,27 @@
+
+p {
+font-size: 80PX;
+color:white;
+padding-top: 20px;
+text-align: center;
+width: 120px;
+height: 100px;
+background-color: red;
+transition-property: all;
+transition-duration: 0.5s;
+transition-timing-function: ease-out;
+/*transition:width 1s;*/
+}
+
+/*@keyframes body {
+0% { background-color: red; }
+20% { background-color: orange; } 40% { background-color: yellow; } 60% { background-color: green; } 80% { background-color: blue; } 100% { background-color: purple; }
+}
+*/
+
+p:hover {
+/*width:200px;*/
+width:200px;
+height: 60px;
+background-color:green:
+ }
